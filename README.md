@@ -1,2 +1,4 @@
 # svg2vec
-SVG to drawable android vector converter
+SVG to Android drawable vector converter
+Just copy SVG code, paste in console and press enter twice.
+Drawable vector will be printed to console
